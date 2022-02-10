@@ -1,20 +1,182 @@
 
 body{
 	margin: 0px;
+	background-color:#FFFFFF; 
 }
 .site{
 
-	background-color: #8CAD83;
+	background-color: #FFFFFF;
 	max-width: 1200px;
 	padding-top:50px;
 	margin: 0px auto;
 	padding-bottom: 15px;
 }
 
-.imagem{
+.imagem {
 
-	background-image: url("fundo.png");
-	width: 1200px;
-	height: 800px;
+	background-image: url(imagens/fundo.jpg);
+height: 800px;
+width: 1200px;
+
+
+}
+
+.um img{
+	float: left;
+	width: 200px;
+
+}
+
+.dois img{
+	
+	float: right;
+	width: 200px;
+
+}
+
+h1 a {
+	font-family: 'Raleway', sans-serif;
+	color: #A56720;
+	font-weight: 400;
+	float: right;
+	margin-right: 110px;
+	font-size: 20px;
+
+}
+
+h2 {
+	font-family:'Raleway', sans-serif;
+	color: #565656;
+	font-weight: 700;
+	padding-top: 50px;
+	font-size: 50px;
+}
+
+h3 {
+
+	font-family: 'Raleway', sans-serif;
+	color: #84847c;
+	font-weight: 500;
+
+}
+
+h4 {
+	font-family: 'Raleway', sans-serif;
+	color: #84847c;
+	font-weight: 500;
+
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	color: #BCBCBC;
+	font-weight: 300;
+
+}
+
+
+
+.foto{
+
+	 max-width: 1200px;
+	padding-top:50px;
+	margin: 0px auto;
+	padding-bottom: 15px;
+  
+}
+
+.centro{
+	text-align: center;
+
+	max-width: 1200px;
+	margin: 0px auto;
+	padding-bottom: 15px;
+}
+
+.esquerda{
+	max-width: 1200px;
+	margin-right: 600px;
+	margin-left: 220px;
+	padding-bottom: 15px;
+	text-align: left;
 	
 }
+
+.borda{
+	width: 150px;
+	margin-right: 600px;
+	margin-left: 220px;
+	padding-bottom: 15px;
+	text-align: left;
+	border: solid 2px #84847c;
+
+	
+}
+
+.enquadramento{
+	max-width: 1200px;
+	margin-right: 220px;
+	margin-left: 600px;
+	padding-bottom: 15px;
+	text-align: right;
+	border: solid 2px #84847c;
+}
+
+.direita{
+	max-width: 1200px;
+	margin-right: 220px;
+	margin-left: 600px;
+	padding-bottom: 15px;
+	text-align: right;
+}
+
+.lista ul li{
+
+	font-family: 'Raleway', sans-serif;
+	color: #BCBCBC;
+	font-weight: 300;
+
+	text-align: center;
+	  max-width: 1200px;
+	margin: 0px auto;
+	padding-bottom: 15px;
+	list-style-type: none;
+}
+
+.fotografias{
+	margin: auto;
+  width: 60%;
+}
+
+.lado1{
+		float: left;
+	width: 50%
+	padding: 5px;
+	margin: 10px;
+}
+
+.lado2{
+
+float: left;
+	width: 50%
+		padding: 5px;
+			margin: 10px;
+}
+
+
+
+.texto{
+	text-align: center;
+	max-width: 1200px;
+	margin: 0px auto;
+	padding-bottom: 15px;
+
+	padding-top: 50px;
+}
+
+
+
+
+
+
+

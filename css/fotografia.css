@@ -21,6 +21,11 @@ width: 1200px;
 
 }
 
+.logo img{
+	float: left;
+	width: 150px;
+}
+
 .um img{
 	float: left;
 	width: 200px;
@@ -41,6 +46,8 @@ h1 a {
 	float: right;
 	margin-right: 110px;
 	font-size: 20px;
+	text-decoration: none;
+	border: solid 2px #A56720;
 
 }
 
@@ -50,6 +57,7 @@ h2 {
 	font-weight: 700;
 	padding-top: 50px;
 	font-size: 50px;
+
 }
 
 h3 {
@@ -102,26 +110,6 @@ p {
 	
 }
 
-.borda{
-	width: 150px;
-	margin-right: 600px;
-	margin-left: 220px;
-	padding-bottom: 15px;
-	text-align: left;
-	border: solid 2px #84847c;
-
-	
-}
-
-.enquadramento{
-	max-width: 1200px;
-	margin-right: 220px;
-	margin-left: 600px;
-	padding-bottom: 15px;
-	text-align: right;
-	border: solid 2px #84847c;
-}
-
 .direita{
 	max-width: 1200px;
 	margin-right: 220px;
@@ -170,10 +158,9 @@ float: left;
 	max-width: 1200px;
 	margin: 0px auto;
 	padding-bottom: 15px;
-
 	padding-top: 50px;
-}
 
+}
 
 
 
